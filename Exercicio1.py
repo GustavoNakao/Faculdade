@@ -7,3 +7,10 @@ if numero < 9:
     print('Valor correto')
 else:
     print('Valor incorreto')
+
+perguntaNumero = input('Qual é o seu numero favorito?')
+if numero ==10:
+    print('Você acertou')
+else:
+    print('Você errou')
+    
