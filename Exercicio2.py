@@ -8,7 +8,7 @@ turnoTrabalho = float(input('Qual seu turno de trabalho? '))
 quantidadeTrabalho = float(input('Qual e a quantidade de horas trabalhadas? '))
     
 if turnoTrabalho == 45.00:
-    print('O valor e igual a 45,00')
+    print('O valor e igual a 55,00')
 else:
     print('O valor e de 37,50')
     
